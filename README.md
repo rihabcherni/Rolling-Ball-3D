@@ -47,6 +47,15 @@ Control the ball to collect all the coins, avoid obstacles and enemies, and reac
 
 ---
 
+## 🎥 Preview
+
+![Gameplay Screenshot](./screenshot/1.jpg)
+![Gameplay Screenshot](./screenshot/2.jpg)
+![Gameplay Screenshot](./screenshot/3.jpg)
+
+
+---
+
 ## 🛠️ Technologies Used
 
 - **Game Engine:** Unity.
