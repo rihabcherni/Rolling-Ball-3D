@@ -51,7 +51,7 @@ Control the ball to collect all the coins, avoid obstacles and enemies, and reac
 
 Watch the gameplay video below to get a glimpse of the features and mechanics:
 
-[![Watch the video](Screenshot/1.mp4)](video1.mp4)
+[![Watch the video](./Screenshot/1.mp4)](video1.mp4)
 
 ---
 
@@ -74,6 +74,8 @@ Watch the gameplay video below to get a glimpse of the features and mechanics:
 
 3. Play the game in the editor or build it for your target platform.
 
+---
 
+Enjoy playing Ball Rolling 3D! 🌀🎮
 
 
