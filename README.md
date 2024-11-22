@@ -51,7 +51,7 @@ Control the ball to collect all the coins, avoid obstacles and enemies, and reac
 
 Watch the gameplay video below to get a glimpse of the features and mechanics:
 
-[![Watch the video](./Screenshot/1.mp4)](video1.mp4)
+[![Watch the video](./Screenshot/1.mp4)](./Screenshot/1.mp4)
 
 ---
 
