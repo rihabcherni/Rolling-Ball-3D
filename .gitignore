@@ -1,0 +1,34 @@
+[Libraries]
+/[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+/[Ll]ogs/
+MemoryCaptures/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.pidb
+*.user
+*.userprefs
+*.pidb.meta
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+*.idea/
+*.vs/
+
+# Auto-generated files for VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# Built-in Editor settings
+/.vs/
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
