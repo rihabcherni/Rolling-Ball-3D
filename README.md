@@ -53,6 +53,10 @@ Watch the gameplay video below to get a glimpse of the features and mechanics:
 
 [![Watch the video](./Screenshot/1.mp4)](./Screenshot/1.mp4)
 
+## 🎥 Preview
+
+[Watch the video](https://github.com/rihabcherni/Rolling-Ball-3D/releases/tag/video/video1.mp4)
+
 ---
 
 ## 🛠️ Technologies Used
